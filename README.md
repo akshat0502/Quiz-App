@@ -4,3 +4,6 @@
 <h2>
   Introduction
 </h2>
+<p>
+  The <b>Quiz App</b> is an interactive platform that allows users to test their knowledge on various topics. It features multiple-choice questions, real-time score tracking, and a user-friendly interface.
+</p>
