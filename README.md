@@ -10,3 +10,6 @@
 <h2>
   Technologies Used
 </h2>
+<ul>
+  <li><b>HTML</b> – Structure of the quiz app.</li>
+</ul>
