@@ -22,3 +22,14 @@
             <li><strong>Score Calculation:</strong> Points are given for correct answers.</li>
             <li><strong>Results Page:</strong> Displays the final score with retry and review options.</li>
         </ol>
+ <h2>5. Folder Structure</h2>
+        <div class="code-box">
+            /quiz-app<br>
+            ├── index.html (Main page)<br>
+            ├── style.css (Stylesheet)<br>
+            ├── script.js (Quiz logic)<br>
+            ├── /images (Icons & assets)<br>
+            ├── /questions (JSON or JavaScript file for questions)
+        </div>
+
+
