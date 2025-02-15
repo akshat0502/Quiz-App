@@ -31,5 +31,16 @@
             ├── /images (Icons & assets)<br>
             ├── /questions (JSON or JavaScript file for questions)
         </div>
+<h2>6. Potential Enhancements</h2>
+        <ul>
+            <li>🚀 <strong>Leaderboard System</strong> – Users can compete with others.</li>
+            <li>🚀 <strong>Dark Mode</strong> – Adds a light/dark theme toggle.</li>
+            <li>🚀 <strong>User Authentication</strong> – Allows users to save progress.</li>
+            <li>🚀 <strong>Backend Integration</strong> – Stores quiz results in a database.</li>
+        </ul>
 
+        <div class="footer">
+            <p>Designed with ❤️ by Developer</p>
+        </div>
+    </div>
 
