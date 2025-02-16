@@ -10,7 +10,7 @@
   Technologies Used
 </h2>
 <ul>
-  <li><b>HTML</b> – Structure of the quiz app.</li>
+  <li>🔹 <strong>HTML</strong> – Structure of the quiz app.</li>
             <li>🔹 <strong>CSS</strong> – Styling and layout (responsive design).</li>
             <li>🔹 <strong>JavaScript</strong> – Handles quiz logic, score tracking, and interactions.</li>
 </ul>
