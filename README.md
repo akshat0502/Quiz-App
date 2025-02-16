@@ -17,15 +17,13 @@
 <h2>2. Features</h2>
   <ul>
     <li>✅ <strong>User-Friendly Interface</strong> – Clean and responsive design.</li>
-  </ul>
-        <ul>
-            <li>✅ <strong>Multiple Categories</strong> – Different quiz topics (e.g., Science, History, Tech).</li>
+    <li>✅ <strong>Multiple Categories</strong> – Different quiz topics (e.g., Science, History, Tech).</li>
             <li>✅ <strong>Timer Feature</strong> – Adds a time limit for each question.</li>
             <li>✅ <strong>Score Tracking</strong> – Displays real-time scores and final results.</li>
             <li>✅ <strong>Responsive Design</strong> – Works on mobile, tablet, and desktop.</li>
             <li>✅ <strong>Randomized Questions</strong> – Ensures quizzes are unique each time.</li>
             <li>✅ <strong>Restart & Review Option</strong> – Allows users to retry and review answers.</li>
-        </ul>
+  </ul>
 
 <h2>4. How It Works</h2>
         <ol>
