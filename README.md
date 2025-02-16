@@ -14,10 +14,11 @@
             <li>🔹 <strong>CSS</strong> – Styling and layout (responsive design).</li>
             <li>🔹 <strong>JavaScript</strong> – Handles quiz logic, score tracking, and interactions.</li>
 </ul>
-
-      <h2>2. Features</h2>
+<h2>2. Features</h2>
+  <ul>
+    <li>✅ <strong>User-Friendly Interface</strong> – Clean and responsive design.</li>
+  </ul>
         <ul>
-            <li>✅ <strong>User-Friendly Interface</strong> – Clean and responsive design.</li>
             <li>✅ <strong>Multiple Categories</strong> – Different quiz topics (e.g., Science, History, Tech).</li>
             <li>✅ <strong>Timer Feature</strong> – Adds a time limit for each question.</li>
             <li>✅ <strong>Score Tracking</strong> – Displays real-time scores and final results.</li>
@@ -51,8 +52,8 @@
             <li>🚀 <strong>Backend Integration</strong> – Stores quiz results in a database.</li>
         </ul>
 
-        <div class="footer">
+        <div>
             <p>Designed with ❤️ by Developer</p>
         </div>
-    </div>
+    
 
