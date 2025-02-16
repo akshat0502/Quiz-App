@@ -50,8 +50,5 @@
             <li>🚀 <strong>Backend Integration</strong> – Stores quiz results in a database.</li>
         </ul>
 
-        <div>
-            <p>Designed with ❤️ by Developer</p>
-        </div>
     
 
