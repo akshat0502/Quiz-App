@@ -39,8 +39,6 @@
             ├── index.html (Main page)<br>
             ├── style.css (Stylesheet)<br>
             ├── script.js (Quiz logic)<br>
-            ├── /images (Icons & assets)<br>
-            ├── /questions (JSON or JavaScript file for questions)
         </div>
 <h2>6. Potential Enhancements</h2>
         <ul>
